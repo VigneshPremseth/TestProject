@@ -45,15 +45,8 @@ public class RLSFeed {
 	}
 
 	public String getCrawledLog() {
+		System.out.println("Nothing");
 		return crawledLog;
-	}
-
-	public void setCrawledLog(String crawledLog) {
-		this.crawledLog = crawledLog;
-	}
-
-	public Integer getAdSize() {
-		return adSize;
 	}
 
 	public void setAdSize(Integer adSize) {
