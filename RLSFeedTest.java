@@ -1,6 +1,6 @@
 package com.yahoo.adquality.sve.hio.model;
 
-public class RLSFeed {
+public class RLSFeedTest {
 
 	private Long vurlId;
 	private Long sectionId;
